@@ -31,3 +31,13 @@ Interested in products related to Game development, Metaverse, AR / VR / XR, Arc
 
 ### Personal Site:
 [PrajwalShetty.com](https://prajwalshetty.com)
+
+Together, let's build something #unreal 🔥🖤
+<div id="badges">
+  <a href="https://www.linkedin.com/in/shettyprajwal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/shettyprajwal_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
