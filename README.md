@@ -32,6 +32,9 @@ Interested in products related to Game development, Metaverse, AR / VR / XR, Arc
 ### Personal Site:
 [PrajwalShetty.com](https://prajwalshetty.com)
 
+### Portfolio:
+[prajwalshetty.com/portfolio](https://prajwalshetty.com/portfolio)
+
 Together, let's build something #unreal 🔥🖤
 <div id="badges">
   <a href="https://www.linkedin.com/in/shettyprajwal/">
