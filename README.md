@@ -44,3 +44,5 @@ Together, let's build something #unreal 🔥🖤
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<!-- ![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwalshettydev&show_icons=true&hide=contribs,issues)
