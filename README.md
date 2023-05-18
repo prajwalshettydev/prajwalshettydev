@@ -45,4 +45,10 @@ Together, let's build something #unreal 🔥🖤
   </a>
 </div>
 
+<p align=center>
+<img height="25" src="https://komarev.com/ghpvc/?username=ruch798&color=brightgreen" />
+<a href="https://github.com/ruch798">
+</a>
+</p>
+
 <!-- ![Prajwal's github stats](https://github-readme-stats.vercel.app/api?username=prajwalshettydev&show_icons=true&hide=contribs,issues)
