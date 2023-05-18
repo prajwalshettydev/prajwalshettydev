@@ -46,8 +46,8 @@ Together, let's build something #unreal 🔥🖤
 </div>
 
 <p align=center>
-<img height="25" src="https://komarev.com/ghpvc/?username=ruch798&color=brightgreen" />
-<a href="https://github.com/ruch798">
+<img height="25" src="https://komarev.com/ghpvc/?username=prajwalshettydev&color=brightgreen" />
+<a href="https://github.com/prajwalshettydev">
 </a>
 </p>
 
