@@ -15,6 +15,8 @@
 - 🖌️ Runtime Mesh Load and processing with Khronos' GLTF, Pixar's USDZ or OBJs
 - 🍾 Unity as a library, with react-native/ionic-angular frameworks.
 - 👽 Fishnet, Zenject and Stateless
+- 👨‍💻 Draco Mesh compression, KTX, Addressables 
+- 🪛 gRPC, Rest-APIs, .Net Core
 
 Interested in products related to Game development, Metaverse, AR / VR / XR, Architectural Visualization and Computer Simulation
 
