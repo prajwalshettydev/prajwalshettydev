@@ -17,6 +17,7 @@
 - 👽 Fishnet, Zenject and Stateless
 - 👨‍💻 Draco Mesh compression, KTX, Addressables 
 - 🪛 gRPC, Rest-APIs, .Net Core
+- 📝 Misc: Jira, Confluence, Git, Rider, Copilot, Gpt-4 etc
 
 Interested in products related to Game development, Metaverse, AR / VR / XR, Architectural Visualization and Computer Simulation
 
