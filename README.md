@@ -1,8 +1,8 @@
 ![Hey I'm Prajwal](https://res.cloudinary.com/dwfkishzf/image/upload/v1676639894/Prajwal%20Profile%20Images/ezgif.com-video-to-gif_ona1cr.gif)
 
-👋 Hello there! I'm Prajwal Shetty,
+👋 Hello there! I'm Prajwal Shetty Vijaykumar,
 
-5 years of professional software and game development experience in Unity 3D, Blender, and Unreal Engine. Passionate about building games, and virtual worlds. Built and shipped products for iOS, Android, Windows, and macOS using Unity’s ecosystem, and lead a team of 6 developers. Built applications related to architectural visualization, runtime mesh loading, and automated renders in python and C#.
+6+ years of professional software and game development experience in Unity 3D, Blender, and Unreal Engine. Passionate about building games, and virtual worlds. Built and shipped products for iOS, Android, Windows, and macOS using Unity’s ecosystem, and lead a team of 6 developers. Built applications related to architectural visualization, runtime mesh loading, and automated renders in python and C#.
 
 - 🚀 Unity 3D game Development
 - 👨‍💻 Procedural Mesh Generation and Optimization
@@ -17,7 +17,9 @@
 - 👽 Fishnet, Zenject and Stateless
 - 👨‍💻 Draco Mesh compression, KTX, Addressables 
 - 🪛 gRPC, Rest-APIs, .Net Core
-- 📝 Misc: Jira, Confluence, Git, Rider, Copilot, Gpt-4 etc
+- 🎮 Sony PS5 Devkit and dual sense, Meta Quest Env
+- ⚙️ LLM APIs, Claude, OpenAI GPTs
+- 📝 Misc: Jira, Confluence, Git, Rider, Copilot etc
 
 Interested in products related to Game development, Metaverse, AR / VR / XR, Architectural Visualization and Computer Simulation
 
@@ -31,6 +33,7 @@ Interested in products related to Game development, Metaverse, AR / VR / XR, Arc
 <!-- BLOG-POST-LIST:START -->
 - [Deploying Unity Linux Game Server Into Playfab Cloud](https://prajwalshetty.com/Unity/Deploying-Unity-Game-Server-Into-Playfab-Cloud/)
 - [Runtime mesh generation in Unreal Engine 5 (C++) - With LODs](https://prajwalshetty.com/ue5/Generating-Runtime-Mesh-In-Unreal-Engine/)
+- [Compilation of the best Unreal Engine C++ resources](https://prajwalshetty.com/UE5/Useful-Unreal-Links)
 <!-- BLOG-POST-LIST:END -->
 
 ### Personal Site:
