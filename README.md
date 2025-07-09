@@ -36,11 +36,15 @@ Interested in products related to Game development, Metaverse, AR / VR / XR, Arc
 - [Compilation of the best Unreal Engine C++ resources](https://prajwalshetty.com/UE5/Useful-Unreal-Links)
 <!-- BLOG-POST-LIST:END -->
 
-### Personal Site:
-[PrajwalShetty.com](https://prajwalshetty.com)
+### Sites:
+[prajwalshetty.com](https://prajwalshetty.com)
+[muddyterrain.com](https://muddyterrain.com)
 
 ### Portfolio:
 [prajwalshetty.com/portfolio](https://prajwalshetty.com/portfolio)
+
+### Products:
+[GenAI for Unreal](https://www.fab.com/listings/68e7f092-1fea-4e6d-8d31-c6b96b06a02e))
 
 Together, let's build something #unreal 🔥🖤
 <div id="badges">
