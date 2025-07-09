@@ -44,7 +44,7 @@ Interested in products related to Game development, Metaverse, AR / VR / XR, Arc
 [prajwalshetty.com/portfolio](https://prajwalshetty.com/portfolio)
 
 ### Products:
-[GenAI for Unreal](https://www.fab.com/listings/68e7f092-1fea-4e6d-8d31-c6b96b06a02e))
+[GenAI for Unreal](https://www.fab.com/listings/68e7f092-1fea-4e6d-8d31-c6b96b06a02e)
 
 Together, let's build something #unreal 🔥🖤
 <div id="badges">
