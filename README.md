@@ -2,7 +2,7 @@
 
 👋 Hello there! I'm Prajwal Shetty Vijaykumar,
 
-6+ years of professional software and game development experience in Unity 3D, Blender, and Unreal Engine. Passionate about building games, and virtual worlds. Built and shipped products for iOS, Android, Windows, and macOS using Unity’s ecosystem, and lead a team of 6 developers. Built applications related to architectural visualization, runtime mesh loading, and automated renders in python and C#.
+7+ years of professional software and game development experience in Unity 3D, Blender, and Unreal Engine. Passionate about building games, and virtual worlds. Built and shipped products for iOS, Android, Windows, and macOS using Unity’s ecosystem, and lead a team of 6 developers. Built applications related to architectural visualization, runtime mesh loading, and automated renders in python and C#.
 
 - 🚀 Unity 3D game Development
 - 👨‍💻 Procedural Mesh Generation and Optimization
